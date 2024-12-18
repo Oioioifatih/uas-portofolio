@@ -32,7 +32,7 @@ export default function Dashboard() {
         <div className='flex w-full bg-white rounded-xl '>
           <div className="flex-1 p-10">
             <div className="font-extrabold text-[48px] mt-10">
-              <div>I&lsquo;Rizqi Al-Fatih</div>
+              <div>I&lsquo;Rizqi Al-Fatihh</div>
               <div>
                 <span className="text-[#FFB400]">Front-end</span> Developer 
               </div>
